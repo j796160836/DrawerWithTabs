@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DrawerWithTabs</string>
+    <string name="nav_01">Navigation 01</string>
+    <string name="nav_02">Navigation 02</string>
+    <string name="nav_03">Navigation 03</string>
+    <string name="nav_01_tab1">Tab 01</string>
+    <string name="nav_01_tab2">Tab 02</string>
+    <string name="nav_01_tab3">Tab 03</string>
+    <string name="go_to_detail">See details…</string>
+    <string name="title_detail">Detail page</string>
+    <string name="details">Here is the details</string>
+    <string name="snackbar_txt">Here\'s a Snackbar</string>
+    <string name="action">Action</string>
+</resources>
